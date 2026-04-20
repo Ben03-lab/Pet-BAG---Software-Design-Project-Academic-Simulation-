@@ -43,6 +43,7 @@ View the file here:
 The pseudocode for the selected method (pet check‑in or pet check‑out) is located in:
 
 [`docs/Pseudocode.md`](docs/Pseudocode.md)
+https://github.com/Ben03-lab/Pet-BAG---Software-Design-Project-Academic-Simulation-/edit/main/docs/pseudocode.md
 
 It outlines the logic at a high level and follows the functional requirements from the assignment.
 
