@@ -57,7 +57,6 @@ The flowchart visually represents the logic of the selected method and includes:
 - A clear flow aligned with the check‑in or check‑out process  
 
 View the flowchart here:  
-[`flowchart/PetCheckInFlowchart.png`](flowchart/PetCheckInFlowchart.png)
 
 <img width="903" height="997" alt="Picture2" src="https://github.com/user-attachments/assets/b4075f20-4cdb-407b-94c6-32b169cd9643" />
 
